@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Background
 
 The data dive continues!
@@ -50,3 +51,8 @@ As final considerations:
 
 Trilogy Education Services © 2019. All Rights Reserved.
 
+=======
+# pandas-challenge
+Pandas and Juypter homework
+# See notebook for applicable notations, summaries, and trends
+>>>>>>> 464d110e069a1d4512775e6cb240605b0de886cb
